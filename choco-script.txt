@@ -1,0 +1,1 @@
+choco install git libreoffice vlc lockhunter cpu-z hwinfo gpu-z hwmonitor intellijidea-community openjdk adobereader sumatrapdf notepadplusplus pdfsam 7zip python chocolateygui -y
